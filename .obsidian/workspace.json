@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "539ee71c3406b8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d08e33bb5fbba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7329154c40c5279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.4Git远程仓库.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4272eef1ff679b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ab54e8ca4a16cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed9f3952649d32a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d343ef176c8f4e8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca54c939792bc6af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "d269da7bb0e3db51",
+    "type": "split",
+    "children": [
+      {
+        "id": "97bc4184dbbdaa9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a25bde713cce29ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.4Git远程仓库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04e034313f28add7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.4Git远程仓库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10ab9e7b610b5cf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94ad73d3e141766a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.4Git远程仓库.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "e7329154c40c5279",
+  "lastOpenFiles": [
+    "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/z-git问题汇总.md",
+    "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.4Git远程仓库.md",
+    "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.3Git分支.md",
+    "C4=归档资料/4.1=学习类/4.1.1Git学习笔记/2.8.2Git基本操作.md",
+    "C2=等待处理/2.1精句收藏/1.4.1网络收藏.md",
+    "C2=等待处理/2.1精句收藏/1.4.2自述说.md",
+    "C1=收集箱/1.10Excalidraw/Drawing 2024-04-30 23.01.47.excalidraw.md",
+    "C1=收集箱/1.10Excalidraw/梨.md",
+    "C1=收集箱/3.3想法收集站/拍电影灵感.md",
+    "C4=归档资料/4.3=生活类/4.3.1每日规划/2024-4-30.md",
+    "C4=归档资料/4.3=生活类/4.3.1每日规划/Imges/2024-4-30/image-20240430230506084.png",
+    "C4=归档资料/4.3=生活类/4.3.1每日规划/Imges/2024-4-30",
+    "C4=归档资料/4.3=生活类/4.3.1每日规划/Imges",
+    "C4=归档资料/4.3=生活类/4.3.1每日规划",
+    "C2=等待处理/2.3我在人间慌张/2024-03-24.md",
+    "C4=归档资料/4.1=学习类/4.1.4谷歌搜索-Chatgpt使用技巧.md",
+    "C2=等待处理/2.2日常生活/1.9.1雪.md",
+    "C2=等待处理/2.1英语音标学习/img-files/Pasted image 20240330162845.png",
+    "C2=等待处理/2.1英语音标学习/1.8.2元音三要素.md",
+    "C4=归档资料/4.1=学习类/4.1.5Termux折腾日记/2.8.1Termux基础使用.md",
+    "C2=等待处理/2.1英语音标学习/1.8.1人类发音过程.md",
+    "C4=归档资料/4.1=学习类/4.1.5Termux折腾日记/Imges/2.8.1Termux基础使用/image-20240106092954730.png",
+    "C2=等待处理/2.1英语音标学习/Imges/1.8.2元音三要素/image-20240330162942500.png",
+    "C4=归档资料/4.1=学习类/4.1.2Termux折腾日记/1.6.1Termux备份与恢复.md",
+    "C2=等待处理/2.1英语音标学习/img-files/Pasted image 20240330162643.png",
+    "C4=归档资料/4.1=学习类/4.1.5Termux折腾日记/Imges/2.8.1Termux基础使用",
+    "C2=等待处理/2.1英语音标学习/Imges/1.8.2元音三要素",
+    "C4=归档资料/4.1=学习类/4.1.5Termux折腾日记/Imges",
+    "C2=等待处理/2.1英语音标学习/Imges",
+    "C2=等待处理/2.1英语音标学习/img-files",
+    "C4=归档资料/4.1=学习类/4.1.5Termux折腾日记",
+    "C4=归档资料/4.1=学习类/4.1.2Termux折腾日记",
+    "C4=归档资料/4.1=学习类/4.1.3Githup使用指南.md",
+    "C1=收集箱/3.3想法收集站/1.5.2如何养胃.md",
+    "C1=收集箱/3.3想法收集站/1.5.1《打开心智》思考.md",
+    "C1=收集箱/3.4影视观感/1.《海上钢琴师》.md",
+    "C1=收集箱/蔡氏效应.md",
+    "C1=收集箱/电脑自动关机.md",
+    "C1=收集箱/JDtab视频文案.md",
+    "C1=收集箱/1.7.1.饥荒小技巧.md",
+    "Excalidraw/Drawing 2024-03-30 16.14.53.excalidraw.md",
+    "C2=等待处理/2.4JavaScript学习笔记/Imges/2.4.2JS为何方神圣？/image-20240504210257861.png",
+    "Imges/应用文写作作业1/image-20240419141424611.png",
+    "C2=等待处理/2.1英语音标学习/Imges/1.8.2元音三要素/v2-1472314a2299895754a691a976cf0a45_r.jpg",
+    "C1=收集箱/1.8英语音标学习/Imges/1.8.2元音三要素/v2-1472314a2299895754a691a976cf0a45_r-1711787389402-1.jpg",
+    "C2=等待处理/2.8Git学习笔记/Imgs/2.8.4Git远程仓库/image-20231210165054688.png"
+  ]
+}
